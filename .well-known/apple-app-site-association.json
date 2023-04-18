@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": "com.radiofrance.echoes.debug",
+        "paths": ["*", "/"]
+      }
+    ]
+  }
+}
